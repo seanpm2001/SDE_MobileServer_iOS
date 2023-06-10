@@ -13,7 +13,7 @@
 
 All iOS versions from 13.0 and up are supported, as long as the device has at least 20 gigabytes of free space, at least 2 GhZ free CPU, and at least 4 gigabytes of free RAM.
 
-| FireOS version | Support |
+| iOS version | Support |
 |---|---|
 | iOS 4.x | ❌️ |
 | iOS 5.x | ❌️ |
@@ -43,6 +43,6 @@ See also: [:octocat: `SDE MobileServer for iPadOS`](https://github.com/seanpm200
 
 # File info
 
-**File version:** `1 (2023, Friday, June 9th at 10:22 pm PST)`
+**File version:** `2 (2023, Friday, June 9th at 10:27 pm PST)`
 
 ***
